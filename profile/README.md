@@ -1,117 +1,113 @@
-<h1 align="center">CodeMyHabits</h1>
+<h1 align="center">⚡ CodeMyHabits</h1>
 
 <p align="center">
-  <strong>Automatizar tu crecimiento con IA + hábitos + código.</strong>
+  <strong>IA, hábitos y código para hacer la vida diaria un poco más simple.</strong>
 </p>
 
 <p align="center">
-  Construimos productos para developers y makers que quieren más libertad, más foco y menos fricción.
-</p>
-
-<p align="center">
-  <em>Built by two engineers designing a calm, high-leverage life through software.</em>
+  Construimos herramientas, sistemas e ideas para aprovechar la tecnología actual con intención.
 </p>
 
 ---
 
-## What We Build
+## ✨ Qué es CodeMyHabits
 
-CodeMyHabits es una marca-sistema en la intersección de:
+CodeMyHabits es un espacio donde exploramos cómo usar las herramientas del mundo tech para mejorar el día a día.
 
-- inteligencia artificial útil
-- hábitos que se sostienen en la vida real
-- software bien diseñado
-- automatización personal
-- herramientas para developers y builders
+Nos interesa todo lo que ayude a:
 
-No nos interesa la productividad como ruido.
-Nos interesa crear productos que ayuden a pensar mejor, actuar con más claridad y mantener la consistencia.
+- ganar tiempo
+- reducir fricción
+- ordenar rutinas
+- automatizar tareas repetitivas
+- vivir con más claridad
 
----
-
-## Why We Exist
-
-La mayoría de herramientas prometen demasiado y acompañan poco.
-
-Nosotros queremos construir lo contrario:
-
-- productos pequeños pero potentes
-- experiencias claras en lugar de complejidad innecesaria
-- sistemas que reduzcan fricción mental
-- software que convierta intención en acción
-
-Nuestro foco está en personas técnicas, curiosas y creadoras que quieren crecer sin vivir en el caos.
+No buscamos complicarlo todo.
+Nos gusta encontrar formas prácticas de usar la tecnología para que la vida funcione mejor.
 
 ---
 
-## Vision
+## 🧭 Nuestra visión
 
-Queremos construir un ecosistema de aplicaciones para una nueva generación de developers y makers:
-personas que usan tecnología no solo para producir más, sino para vivir con más intención.
+Creemos que la tecnología puede servir para algo más que producir más o estar más ocupados.
 
-La tesis detrás de todo lo que hacemos es simple:
+También puede ayudarnos a vivir con más calma, más enfoque y más espacio mental.
 
-> La tecnología debería ayudarte a ganar claridad, sostener buenos hábitos y crear más libertad.
+Queremos construir alrededor de esa idea:
 
----
-
-## Who We Are
-
-Somos una pareja de ingenieros tech desarrollando aplicaciones de pago y suscripción desde cero.
-
-Construimos en la intersección entre:
-
-- product engineering
-- AI workflows
-- developer tools
-- habit systems
-- personal productivity
-
-Cada producto forma parte de una misma visión:
-crear software útil, elegante y suficientemente simple como para acompañarte todos los días.
+> usar la IA, el código y los sistemas personales para facilitarnos la vida.
 
 ---
 
-## Products In Progress
+## 👩‍💻👨‍💻 Quién hay detrás
 
-Algunos ejemplos del tipo de productos que estamos construyendo:
+Somos una pareja de ingenieros construyendo proyectos, experimentos y herramientas alrededor de hábitos, automatización y vida cotidiana.
 
-### GardenAI
+Nos gusta movernos entre:
 
-Una app orientada a crecimiento personal asistido por IA, pensada para convertir reflexión en acción y ayudarte a sostener sistemas personales con más claridad.
+- software
+- IA aplicada
+- organización personal
+- automatización
+- sistemas sencillos para problemas reales
 
-### Arrocito
-
-Una aplicación para cocinar arroz con precisión, apoyándose en datos, repetibilidad y una lógica clara para medir evaporación, tiempos y proporciones.
-
----
-
-## Principles
-
-- Build useful things.
-- Reduce noise.
-- Automate what drains energy.
-- Keep the core simple.
-- Design for real life, not just the demo.
-- Ship, learn, refine.
+Todo lo que hacemos parte de una misma intención:
+usar la tecnología actual para ayudarnos a vivir mejor.
 
 ---
 
-## For Developers And Makers
+## 🚀 Cosas que estamos construyendo
 
-Si te interesan:
+### 🌿 GardenAI
 
-- herramientas con IA aplicada
-- productos digitales con intención
-- sistemas personales y hábitos
-- automatización para una vida más enfocada
-- software creado por gente técnica para gente técnica
+Una app para gestionar el huerto de forma práctica y visual.
 
-entonces probablemente estamos construyendo para ti.
+Te permite:
+
+- anotar semillas
+- crear semilleros
+- seguir las etapas desde germinación hasta trasplante
+- crear huertos según tamaño
+- asociar cultivos a cada square
+- consultar asociaciones beneficiosas entre cultivos
+- recibir tips para conseguir mejores resultados en tu huerto
+
+### 🍚 Arrocito
+
+Una aplicación para cocinar arroz con más precisión y repetir buenos resultados.
+
+Se apoya en datos, evaporación, tiempos y proporciones para ayudarte a convertir cocinar en un sistema más claro, práctico y repetible.
+
+---
+
+## 📣 Para la comunidad
+
+Si te interesa:
+
+- usar IA de forma útil
+- automatizar pequeñas cosas del día a día
+- mejorar tus rutinas
+- ahorrar tiempo
+- crear sistemas sencillos que te hagan la vida más fácil
+
+seguramente te interesará lo que estamos haciendo.
+
+Este espacio está pensado para compartir ideas, herramientas y proyectos que nos ayuden a vivir con menos caos y más intención.
+
+---
+
+## 🧩 Nuestra forma de construir
+
+- hacer cosas útiles
+- mantenerlo simple
+- reducir ruido
+- probar ideas reales
+- construir con curiosidad
+- compartir lo que aprendemos
 
 ---
 
 <p align="center">
-  <strong>CodeMyHabits</strong><br />
-  IA, hábitos y código para construir una vida con más libertad.
+  <strong>⚡ CodeMyHabits</strong><br />
+  <em>usar la tecnología para vivir mejor.</em>
 </p>
